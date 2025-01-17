@@ -1,5 +1,5 @@
 # Flight-Search-Service-using-Neo4j
-Warehouse service, using Docker (to setup and run DB), python (flask, neo4j libraries needed) and Postman with PUT,GET,POST,DELETE methods. 
+Flight search service, using Docker (to setup and run DB), python (flask, neo4j libraries needed) and Postman with PUT,GET,POST,DELETE methods. 
 Includes these methods:
 # Register a new city.
 # Get cities.
